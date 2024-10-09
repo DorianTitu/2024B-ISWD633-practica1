@@ -26,8 +26,8 @@ docker pull <nombre imagen>:<tag>
 Descargar la imagen **hello-world**
 # COMPLETAR
 
-**¿Qué es nginx**
-# COMPLETAR 
+**¿Qué es nginx?**
+NGINX es un servidor web de código abierto que funcionaba en servidores HTTP. Hoy en dia funcionan como proxys inversos, balanceador de carga HTTP y proxi de correo electronico para IMAP, POP3 y SMTP
 
 Descargar la imagen  **nginx** en la versión **alpine**
 # COMPLETAR
