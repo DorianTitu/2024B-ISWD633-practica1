@@ -102,7 +102,7 @@ docker rm c75586e73324409cb85479bd3467bfb617d3a34bb316782e4565b887f87dd33f
 Verificar que el contenedor que se eliminó
 
 ```
-docker rm -f svr-web3
+docker ps -a
 ```
 
 ### Para eliminar un contenedor que esté ejecutándose
@@ -120,10 +120,13 @@ docker rm -f svr-web3
 Verificar que el contenedor que se eliminó
 
 ```
-docker rm -f svr-web3
+docker ps -a
 ```
 
 ### Para inspecionar un contenedor 
 
 Inspeccionar el contenedor **srv-web** 
-# COMPLETAR
+
+```
+docker inspect svr-web
+```
