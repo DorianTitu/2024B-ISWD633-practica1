@@ -30,7 +30,6 @@ Descargar la imagen **hello-world**
 #NGINX es un servidor web de código abierto que funcionaba en servidores HTTP. Hoy en dia funcionan como proxys inversos, balanceador de carga HTTP y proxi de correo electronico para IMAP, POP3 y SMTP
 
 Descargar la imagen  **nginx** en la versión **alpine**
-# COMPLETAR
 ```
 docker pull nginx:alpine
 ```
@@ -40,7 +39,8 @@ docker pull nginx:alpine
 docker images
 ```
 
-# COLOCAR UNA CAPTURA DE PANTALLA DEL RESULTADO 
+![image](https://github.com/user-attachments/assets/8dedcd8d-7d1e-467d-97ac-1bae88bda5c3)
+
 
 **Identificadores**
 
